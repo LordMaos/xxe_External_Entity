@@ -4,6 +4,7 @@
   <channel>
      <item>
        <title>&example;</title>
+       <description>Les balises audio et vidéo sont implémentées. Le format de donnée JSON est reconnu nativement par Firefox. L'avantage est d'éviter l'utilisation de la fonction eval() qui n'est pas sûr, ou d'employer des librairies additionnelles, qui est nettement plus lent</description>
      </item>   
   </channel>
 </rss>
